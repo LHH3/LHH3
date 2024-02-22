@@ -1,4 +1,7 @@
-### Hi there 👋
+### LHH3
+
+- Currently Studying Computer Science at University
+- I'm currently learning HTML, CSS, JavaScript, Java
 
 <!--
 **LHH3/LHH3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
